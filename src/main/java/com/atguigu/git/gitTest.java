@@ -21,5 +21,7 @@ public class gitTest {
         System.out.println("master test1");
         System.out.println("hot-fix test");
         System.out.println("pull test");
+
+        System.out.println("快来看啊，看我们写的稀碎代码！！！！");
     }
 }
