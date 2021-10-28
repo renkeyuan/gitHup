@@ -21,5 +21,6 @@ public class gitTest {
         System.out.println("master test1");
         System.out.println("hot-fix test");
         System.out.println("pull test");
+        System.out.println("阿源，你个呆逼！");
     }
 }
