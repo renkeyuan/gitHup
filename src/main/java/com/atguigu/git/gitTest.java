@@ -22,7 +22,8 @@ public class gitTest {
         System.out.println("hot-fix test");
         System.out.println("pull test");
         System.out.println("阿源，你个呆逼！");
-
+        
+        System.out.println("咪咪侯！咪咪侯！你真细");
         System.out.println("快来看啊，看我们写的稀碎代码！！！！");
     }
 }
