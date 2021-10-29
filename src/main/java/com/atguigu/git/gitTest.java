@@ -25,5 +25,8 @@ public class gitTest {
         
         System.out.println("咪咪侯！咪咪侯！你真细");
         System.out.println("快来看啊，看我们写的稀碎代码！！！！");
+        
+         System.out.println("忍不住多添两笔");
+        
     }
 }
